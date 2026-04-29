@@ -158,6 +158,7 @@ types-python-dateutil
 typing-inspection
 typing_extensions
 tzdata
+torchvision
 uri-template
 urllib3
 utilsforecast
