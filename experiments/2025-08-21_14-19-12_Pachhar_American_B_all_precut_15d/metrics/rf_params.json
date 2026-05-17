@@ -1,0 +1,6 @@
+{
+  "max_lag": 40,
+  "best_max_depth": 12,
+  "best_min_leaf": 3,
+  "lib": "sklearn"
+}

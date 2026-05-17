@@ -1,0 +1,11 @@
+model,total_seconds,device,lib
+neuralprophet,117.91118502616882,cuda,core
+tbats,44.40738415718079,cuda,tbats
+lgbm,1.07086443901062,cuda,sklearn
+rf,7.771471261978149,cuda,sklearn
+lstm,20.317513704299927,cuda,tf
+nbeats,23.694413423538208,cuda,darts
+nhits,8.16602110862732,cuda,darts
+patchtst,28.5007541179657,cuda,hf-transformers
+transformer,29.51771903038025,cuda,torch
+ensemble,108.42523241043091,cuda,core

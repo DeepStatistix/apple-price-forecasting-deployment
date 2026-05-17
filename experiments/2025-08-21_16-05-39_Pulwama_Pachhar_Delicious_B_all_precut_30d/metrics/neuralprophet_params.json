@@ -1,0 +1,6 @@
+{
+  "epochs": 100,
+  "batch_size": 32,
+  "lr": 0.001,
+  "lib": "neuralprophet"
+}

@@ -1,0 +1,15 @@
+{
+  "lib": "hf-transformers",
+  "context_length": 192,
+  "prediction_length": 14,
+  "d_model": 64,
+  "layers": 3,
+  "heads": 4,
+  "ffn_dim": 256,
+  "epochs": "<=100(ES)",
+  "batch_size": 64,
+  "train_seconds": 14.706506729125977,
+  "amp": true,
+  "grad_clip": 1.0,
+  "external_scaling": true
+}

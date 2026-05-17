@@ -1,0 +1,5 @@
+{
+  "max_lag": 40,
+  "best_n": 59,
+  "lib": "sklearn"
+}

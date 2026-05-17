@@ -216,3 +216,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.env
+.vscode/
+
+archive_removed_models/
+
+*.ckpt
+*.tmp
+
+.DS_Store
+
+logs/
+wandb/
+
+data/raw/
+
+experiments/*/plots/
+experiments/*/temp/
+
+*.pth
+*.ptl

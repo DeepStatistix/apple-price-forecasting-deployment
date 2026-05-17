@@ -1,0 +1,8 @@
+{
+  "seq_length": 40,
+  "units": 128,
+  "epochs": "ES_or_60",
+  "batch_size": 64,
+  "train_seconds": 56.12294578552246,
+  "lib": "tf"
+}

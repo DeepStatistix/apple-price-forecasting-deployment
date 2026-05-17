@@ -1,0 +1,20 @@
+{
+  "members": [
+    "nbeats",
+    "nhits",
+    "lgbm",
+    "rf",
+    "transformer",
+    "lstm"
+  ],
+  "weights": {
+    "nbeats": 0.14463671828400723,
+    "nhits": 0.14463671828400723,
+    "lgbm": 0.1219153282026978,
+    "rf": 0.34035643444922553,
+    "transformer": 0.11011529748538787,
+    "lstm": 0.13833950329467418
+  },
+  "rule": "inverse-MAE (NaN-aware renorm)",
+  "lib": "core"
+}

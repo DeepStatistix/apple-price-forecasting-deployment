@@ -1,0 +1,30 @@
+name: apple-price-forecasting
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - scipy
+  - statsmodels
+  - joblib
+  - openpyxl
+  - pip
+
+  - pip:
+      - lightgbm
+      - tensorflow
+      - torch
+      - darts
+      - neuralprophet
+      - tbats
+      - transformers
+      - tqdm
+      - pyyaml
+      - streamlit

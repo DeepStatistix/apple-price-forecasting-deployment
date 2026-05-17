@@ -1,0 +1,11 @@
+{
+  "seq_length": 40,
+  "embed_dim": 32,
+  "heads": 4,
+  "ff_dim": 128,
+  "layers": 4,
+  "epochs": "<=100(ES)_or_60",
+  "batch_size": 64,
+  "train_seconds": 2.9027326107025146,
+  "lib": "torch"
+}

@@ -1,0 +1,11 @@
+model,param,value
+neuralprophet,lib,"""neuralprophet"""
+tbats,lib,"""tbats"""
+patchtst,external_scaling,true
+nbeats,lib,"""darts"""
+nhits,lib,"""darts"""
+lgbm,lib,"""sklearn"""
+rf,lib,"""sklearn"""
+transformer,lib,"""torch"""
+lstm,lib,"""tf"""
+ensemble,lib,"""core"""

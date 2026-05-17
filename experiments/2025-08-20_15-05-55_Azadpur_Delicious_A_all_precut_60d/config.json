@@ -1,0 +1,20 @@
+{
+  "data_path": "D:\\Git Projects\\marketdata\\data\\raw\\processed\\Azadpur\\Delicious_A_dataset.csv",
+  "val_scheme": "precut_60d",
+  "season_start": "09-01",
+  "season_end": "03-31",
+  "fold_years": "2022,2023",
+  "test_year": 2024,
+  "val_days": 60,
+  "scaler": "StandardScaler",
+  "torch_device": "cuda",
+  "tf_gpu": false,
+  "metrics_seasonality": 1,
+  "metrics_seasonality_mode": "auto",
+  "HAS_DARTS": true,
+  "HAS_LGBM": true,
+  "HAS_TBATS": true,
+  "HAS_NP": true,
+  "HAS_HF_PATCHTST": true,
+  "ONLINE_MODE": false
+}

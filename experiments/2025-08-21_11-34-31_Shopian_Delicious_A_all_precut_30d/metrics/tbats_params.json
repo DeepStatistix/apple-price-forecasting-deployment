@@ -1,0 +1,11 @@
+{
+  "seasonal_periods": [
+    7
+  ],
+  "use_arma_errors": false,
+  "use_box_cox": false,
+  "n_jobs": 1,
+  "fast_mode": true,
+  "max_train_len": 1500,
+  "lib": "tbats"
+}

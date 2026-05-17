@@ -1,0 +1,8 @@
+{
+  "torch_cuda_available": true,
+  "cuda_version": "12.1",
+  "gpu_count": 1,
+  "gpus": [
+    "NVIDIA GeForce MX550"
+  ]
+}
